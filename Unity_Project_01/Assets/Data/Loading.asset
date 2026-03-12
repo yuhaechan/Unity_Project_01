@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2d771d3dcfc4745a93fc9989a990c2, type: 3}
+  m_Name: Loading
+  m_EditorClassIdentifier: Assembly-CSharp::Loading
+  SheetName: Assets/Data/SpreadsheetCache/Data.xlsx
+  WorksheetName: Loading
+  dataArray:
+  - id: 1001
+    world: 2001
+    icon: 2201
+    titletext: 20001
+    text: 21001
+  - id: 1002
+    world: 2001
+    icon: 2204
+    titletext: 20002
+    text: 21002
+  - id: 1003
+    world: 2001
+    icon: 2205
+    titletext: 20003
+    text: 21003
+  - id: 1004
+    world: 2001
+    icon: 2201
+    titletext: 20004
+    text: 21004
+  - id: 1005
+    world: 2001
+    icon: 2201
+    titletext: 20005
+    text: 21005
+  - id: 1006
+    world: 2001
+    icon: 2209
+    titletext: 20006
+    text: 21006
+  - id: 1007
+    world: 2001
+    icon: 2210
+    titletext: 20007
+    text: 21007
+  - id: 1008
+    world: 2001
+    icon: 2211
+    titletext: 20008
+    text: 21008
+  - id: 1009
+    world: 2001
+    icon: 2212
+    titletext: 20009
+    text: 21009
+  - id: 1010
+    world: 2001
+    icon: 2213
+    titletext: 20010
+    text: 21010
+  - id: 1011
+    world: 2001
+    icon: 2207
+    titletext: 20011
+    text: 21011
+  - id: 1012
+    world: 2001
+    icon: 2201
+    titletext: 20012
+    text: 21012
+  - id: 1013
+    world: 2001
+    icon: 2201
+    titletext: 20013
+    text: 21013
+  - id: 1014
+    world: 2001
+    icon: 2204
+    titletext: 20014
+    text: 21014
+  - id: 1015
+    world: 2001
+    icon: 2201
+    titletext: 20015
+    text: 21015
+  - id: 1016
+    world: 2001
+    icon: 2201
+    titletext: 20016
+    text: 21016
+  - id: 1017
+    world: 2001
+    icon: 2201
+    titletext: 20017
+    text: 21017
+  - id: 1018
+    world: 2001
+    icon: 2202
+    titletext: 20018
+    text: 21018
+  - id: 1019
+    world: 2002
+    icon: 2201
+    titletext: 20019
+    text: 21019
+  - id: 1020
+    world: 2002
+    icon: 2201
+    titletext: 20020
+    text: 21020
+  - id: 1021
+    world: 2002
+    icon: 2202
+    titletext: 20021
+    text: 21021
+  - id: 1022
+    world: 2002
+    icon: 2201
+    titletext: 20022
+    text: 21022
+  - id: 1023
+    world: 2001
+    icon: 2201
+    titletext: 20023
+    text: 21023

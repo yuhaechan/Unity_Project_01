@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 062e277dfe9b4c74282f5ad5b4fdb162, type: 3}
+  m_Name: Resource
+  m_EditorClassIdentifier: Assembly-CSharp::Resource
+  SheetName: Assets/Data/SpreadsheetCache/Data.xlsx
+  WorksheetName: Resource
+  dataArray:
+  - id: 2001
+    description: "\uC6D4\uB4DC1"
+    path: Img/StarRail/BG/World001
+  - id: 2002
+    description: "\uC6D4\uB4DC2"
+    path: Img/StarRail/BG/World002
+  - id: 2101
+    description: "\uD3FC\uD3FC1"
+    path: Img/StarRail/Pom/Pom001
+  - id: 2102
+    description: "\uD3FC\uD3FC2"
+    path: Img/StarRail/Pom/Pom002
+  - id: 2201
+    description: "\uC544\uC774\uCF581"
+    path: Img/StarRail/Icon/0
+  - id: 2202
+    description: "\uC544\uC774\uCF582"
+    path: Img/StarRail/Icon/1
+  - id: 2203
+    description: "\uC544\uC774\uCF583"
+    path: Img/StarRail/Icon/2
+  - id: 2204
+    description: "\uC544\uC774\uCF584"
+    path: Img/StarRail/Icon/3
+  - id: 2205
+    description: "\uC544\uC774\uCF585"
+    path: Img/StarRail/Icon/4
+  - id: 2206
+    description: "\uC544\uC774\uCF586"
+    path: Img/StarRail/Icon/5
+  - id: 2207
+    description: "\uC544\uC774\uCF587"
+    path: Img/StarRail/Icon/6
+  - id: 2208
+    description: "\uC544\uC774\uCF588"
+    path: Img/StarRail/Icon/7
+  - id: 2209
+    description: "\uC544\uC774\uCF589"
+    path: Img/StarRail/Icon/8
+  - id: 2210
+    description: "\uC544\uC774\uCF5810"
+    path: Img/StarRail/Icon/9
+  - id: 2211
+    description: "\uC544\uC774\uCF5811"
+    path: Img/StarRail/Icon/10
+  - id: 2212
+    description: "\uC544\uC774\uCF5812"
+    path: Img/StarRail/Icon/11
+  - id: 2213
+    description: "\uC544\uC774\uCF5813"
+    path: Img/StarRail/Icon/12
+  - id: 2214
+    description: "\uC544\uC774\uCF5814"
+    path: Img/StarRail/Icon/13
+  - id: 2215
+    description: "\uC544\uC774\uCF5815"
+    path: Img/StarRail/Icon/14
